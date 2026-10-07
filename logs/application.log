@@ -1,0 +1,27 @@
+2026-10-06T11:52:47.090-05:00  INFO 21376 --- [Demo2] [restartedMain] com.example.demo2.Demo2Application       : Starting Demo2Application using Java 23.0.2 with PID 21376 (C:\Users\JR\IdeaProjects\Demo2\build\classes\java\main started by JR in C:\Users\JR\IdeaProjects\Demo2)
+2026-10-06T11:52:47.090-05:00 DEBUG 21376 --- [Demo2] [restartedMain] com.example.demo2.Demo2Application       : Running with Spring Boot v4.1.1, Spring v7.0.9
+2026-10-06T11:52:47.091-05:00  INFO 21376 --- [Demo2] [restartedMain] com.example.demo2.Demo2Application       : No active profile set, falling back to 1 default profile: "default"
+2026-10-06T11:52:47.313-05:00  INFO 21376 --- [Demo2] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-10-06T11:52:47.314-05:00  INFO 21376 --- [Demo2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-06T11:52:47.314-05:00  INFO 21376 --- [Demo2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-06T11:52:47.337-05:00  INFO 21376 --- [Demo2] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 243 ms
+2026-10-06T11:52:47.420-05:00  INFO 21376 --- [Demo2] [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2026-10-06T11:52:47.435-05:00  INFO 21376 --- [Demo2] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-10-06T11:52:47.438-05:00  INFO 21376 --- [Demo2] [restartedMain] com.example.demo2.Demo2Application       : Started Demo2Application in 0.462 seconds (process running for 314.491)
+2026-10-06T12:21:03.496-05:00  INFO 21376 --- [Demo2] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-10-06T12:21:03.500-05:00  INFO 21376 --- [Demo2] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-10-06T12:21:03.522-05:00  INFO 21376 --- [Demo2] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-10-06T12:21:03.816-05:00  INFO 21376 --- [Demo2] [restartedMain] com.example.demo2.Demo2Application       : Starting Demo2Application using Java 23.0.2 with PID 21376 (C:\Users\JR\IdeaProjects\Demo2\build\classes\java\main started by JR in C:\Users\JR\IdeaProjects\Demo2)
+2026-10-06T12:21:03.817-05:00 DEBUG 21376 --- [Demo2] [restartedMain] com.example.demo2.Demo2Application       : Running with Spring Boot v4.1.1, Spring v7.0.9
+2026-10-06T12:21:03.820-05:00  INFO 21376 --- [Demo2] [restartedMain] com.example.demo2.Demo2Application       : No active profile set, falling back to 1 default profile: "default"
+2026-10-06T12:21:04.846-05:00  INFO 21376 --- [Demo2] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-10-06T12:21:04.848-05:00  INFO 21376 --- [Demo2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-06T12:21:04.849-05:00  INFO 21376 --- [Demo2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-06T12:21:04.909-05:00  INFO 21376 --- [Demo2] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1077 ms
+2026-10-06T12:21:05.156-05:00  INFO 21376 --- [Demo2] [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2026-10-06T12:21:05.188-05:00  INFO 21376 --- [Demo2] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-10-06T12:21:05.194-05:00  INFO 21376 --- [Demo2] [restartedMain] com.example.demo2.Demo2Application       : Started Demo2Application in 1.584 seconds (process running for 2012.247)
+2026-10-06T12:21:05.198-05:00  INFO 21376 --- [Demo2] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-10-06T12:21:06.575-05:00  INFO 21376 --- [Demo2] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 4 class path changes (3 additions, 0 deletions, 1 modification)
+2026-10-06T12:21:06.580-05:00  INFO 21376 --- [Demo2] [Thread-9] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-10-06T12:21:06.613-05:00  INFO 21376 --- [Demo2] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete

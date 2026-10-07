@@ -1,0 +1,32 @@
+# ==========================================
+# CONFIGURACIÓN GLOBAL
+# ==========================================
+spring:
+  profiles:
+    active: dev
+  datasource:
+    url: jdbc:h2:mem:demo2_db
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  security:
+    user:
+      name: admin
+      password: supersecretpassword
+      roles: ADMIN
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info, metrics
+  endpoint:
+    health:
+      show-details: always
+  info:
+    env:
+      enabled: true

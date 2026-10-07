@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  compression:
+    enabled: false
+
+logging:
+  level:
+    root: INFO
+    com.example.demo2: DEBUG
+
+app:
+  info:
+    name: "Gestor de Inventario (Dev)"
+    description: "API de Inventario para entorno de desarrollo"
+    developer-email: "dev@empresa.com"
